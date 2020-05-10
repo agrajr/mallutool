@@ -2,7 +2,7 @@
 information gathering tools for mallus
 
 $apt update && apt upgrade
-$git clone 
+$git clone https://github.com/agrajr/mallutool.git
 
 
 
