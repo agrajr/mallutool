@@ -30,7 +30,7 @@
     +|+ HOW TO RUN THE TOOLS +|+
 ok guys to run the tools you guys type this package.
  $ sh crazytools.sh Okay now you just choose the menu you like bosskuhh
- enjoy machane🤩
+
 
 
 
